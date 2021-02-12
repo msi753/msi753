@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning iOS
 
 ### Online Judge 💻
+실버를 넘어 골드를 지나 🎵
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=msi753)](https://solved.ac/msi753)
 
 <!--
