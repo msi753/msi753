@@ -2,7 +2,9 @@
 - 🌱 I’m currently learning iOS
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 
 ### Online Judge 💻
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=msi753)](https://solved.ac/msi753)
