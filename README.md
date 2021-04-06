@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning iOS
 
+### Tech Stack
+<img src="https://img.shields.io/badge/#FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
+
 ### Online Judge 💻
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=msi753)](https://solved.ac/msi753)
 
