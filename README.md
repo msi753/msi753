@@ -4,7 +4,7 @@
 ### Online Judge 💻
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=msi753)](https://solved.ac/msi753)
 
-[![Myeongsim's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyeongSim)](https://github.com/msi753/github-readme-stats)
+[![Myeongsim's GitHub stats](https://github-readme-stats.vercel.app/api?username=msi753)](https://github.com/msi753/github-readme-stats)
 
 <!--
 **msi753/msi753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
