@@ -17,6 +17,14 @@
 
 [![Myeongsim's GitHub stats](https://github-readme-stats.vercel.app/api?username=msi753)](https://github.com/msi753/github-readme-stats)
 
+### velog, blog, gitio, tistory
+- https://velog.io/@msi753
+- https://blog.naver.com/msi753
+- https://msi753.github.io/TIL/
+- https://msios.tistory.com
+ㅋㅋㅋㅋ 왜이렇게 나뉘어 있는거지...
+하나만 정하자!
+
 <!--
 **msi753/msi753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
